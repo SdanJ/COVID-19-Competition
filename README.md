@@ -20,7 +20,7 @@ We can see that all countries’ unemployment rate had risen after Q1 2020 excep
 
 Now, we had a basic idea about the condition of job losing in each 5 countries, it is a good time to look at how each country’ economic being influenced during the Pandemic. 
 
-With data from <i><b><font color = "red">Trading Economics (2020)</font></b><i>, here comes the line chart of quarterly GDP growth rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.2).
+With data from <i><b><font color = "red">Trading Economics (2020)<sup><a href='https://tradingeconomics.com/india/gdp-growth' target='_blank'>[6]</a><a href='https://tradingeconomics.com/sri-lanka/gdp-growth-annual' target='_blank'>[7]</a><a href='https://tradingeconomics.com/brazil/gdp-growth' target='_blank'>[8]</a><a href='https://tradingeconomics.com/egypt/gdp-growth-annual' target='_blank'>[9]</a><a href='https://tradingeconomics.com/indonesia/gdp-growth' target='_blank'>[10]</a></sup></font></b><i>, here comes the line chart of quarterly GDP growth rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.2).
 
 <i><font face='Times New Roman' size=2>Figure 3.a.2</font></i>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/QuarterlyGDP/" height="650" width="90%"></iframe>
