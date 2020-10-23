@@ -89,9 +89,9 @@ From the line chart for Brazil’s government measures count over time, Brail go
 However, its increase rate for Covid-19 confirmed cases slowed down in August,2020. It means the recent measure before August might make a role in controlling Covid-19 confirmed cases. In conclusion, the announcement and implementation of government measures did not play a good role in controlling Covid-19 pandemic.
 
 
-<span style="background-color:yellow"><b>In conclusion, the implementation of government measures for India is not efficient to control the Covid-19. India also did not regulate its measures to adopt the change of Covid-19 situation. The frequency of government measures for Brazil is not high and the implementation of government measures for Brazil did not play a great role in controlling Covid-19 cases. Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. For other countries, the frequency and number of measures have a positive correlation to control Covid-19 Pandemic. 
+<span style="background-color:yellow"><b>In conclusion, the implementation of government measures for India is not efficient to control the Covid-19. India also did not regulate its measures to adopt the change of Covid-19 situation. The frequency of government measures for Brazil is not high and the implementation of government measures for Brazil did not play a great role in controlling Covid-19 cases. Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. For other countries, the frequency and number of measures have a positive correlation to control Covid-19 Pandemic.</b></span> 
 
-Different categorical measures played different roles in controlling Covid-19 Pandemic. Public health measure might can reduce death cases of Covid-19. Movement restriction and social distancing played important roles in controlling Covid-19 confirmed cases.</b></span>  
+<span style="background-color:yellow"><b>Different categorical measures played different roles in controlling Covid-19 Pandemic. Public health measure might can reduce death cases of Covid-19. Movement restriction and social distancing played important roles in controlling Covid-19 confirmed cases.</b></span>  
 
 
 
