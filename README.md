@@ -1,14 +1,16 @@
 # COVID-19-Competition
 
 <h3><b><i>3. Jobs are being lost worldwide at an unprecedented rate, and the economic impact of the COVID-19 Pandemic is not the same throughout each of these countries, what are the differences in these economic shocks? What responses have been and are being made to help mitigate this issue? Have they worked?</i></b></h3>
+
+<div text-align:justify>
 (a).
 
 COVID-19 Pandemic has different economic impacts on the countries like India, Sri Lanka, Bangladesh, Pakistan, Brazil, Egypt and Indonesia, which can be demonstrated from the varying degree of changes in each country’s GDP as well as unemployment rate during the Pandemic. First, let us have a look at each country’s unemployment rate to see how jobs are being lost worldwide.
 
 With data from <i><b><font color = "red">Trading Economics (2020)<sup><a href='https://tradingeconomics.com/india/unemployment-rate' target='_blank'>[1]</a><a href='https://tradingeconomics.com/india/unemployment-rate' target='_blank'>[2]</a><a href='https://tradingeconomics.com/brazil/unemployment-rate' target='_blank'>[3]</a><a href='https://tradingeconomics.com/egypt/unemployment-rate' target='_blank'>[4]</a><a href='https://tradingeconomics.com/indonesia/unemployment-rate' target='_blank'>[5]</a></sup></font></b><i>, here comes the line chart of quarterly unemployment rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.1)
 
-<i>Figure 3.a.1</i>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src=" https://sdanj.github.io/QuarterlyUnemployment/" height="650" width="90%"></iframe>
+<i><font face='Times New Roman'><text-align: center>Figure 3.a.1</font></i>
 
 We can see that all countries’ unemployment rate had risen after Q1 2020 except Indonesia (purple line). And among these countries, India (dark blue line) had the most obvious increase in unemployment rate from Q1 2020 to Q2 2020, then came Egypt (green line) and Brazil (orange line). For Sri Lanka, even though there was no data after Q1 2020, it could be seen that it had the tendency of an increasing unemployment rate.
 
@@ -25,6 +27,8 @@ With data from <i><b><font color = "red">Trading Economics (2020)</font></b><i>,
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Workplace_close/" height="650" width="90%"></iframe>
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/IncomeSupport/ " height="650" width="90%"></iframe>
+
+</div>
 
 <i><b><font color = "red" size=6>References:</font></b></i>
 
