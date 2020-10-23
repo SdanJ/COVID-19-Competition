@@ -5,7 +5,7 @@
 
 <p>COVID-19 Pandemic has different economic impacts on the countries like India, Sri Lanka, Bangladesh, Pakistan, Brazil, Egypt and Indonesia, which can be demonstrated from the varying degree of changes in each country’s GDP as well as unemployment rate during the Pandemic. First, let us have a look at each country’s unemployment rate to see how jobs are being lost worldwide.</p>
 
-<p>With data from Trading Economics (2020), here comes the line chart of quarterly unemployment rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.1)</p>
+<p>With data from <i><b><font color = "red">Trading Economics (2020)</font></b><i>, here comes the line chart of quarterly unemployment rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.1)</p>
 
 
 <iframe id="igraph" title="Figure 3.a.1" scrolling="no" style="border:none;" seamless="seamless" src=" https://sdanj.github.io/QuarterlyUnemployment/" height="650" width="90%"></iframe>
@@ -14,7 +14,7 @@
 
 <p>Now, we had a basic idea about the condition of job losing in each 5 countries, it is a good time to look at how each country’ economic being influenced during the Pandemic. </p>
 
-<p>With data from Trading Economics (2020), here comes the line chart of quarterly GDP growth rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.2). </p>
+<p>With data from <i><b><font color = "red">Trading Economics (2020)</font></b><i>, here comes the line chart of quarterly GDP growth rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.2). </p>
 
 <iframe id="igraph" title="Figure 3.a.2" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/QuarterlyGDP/" height="650" width="90%"></iframe>
 
