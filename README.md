@@ -197,6 +197,41 @@ For cultural characteristics, religions composition for each country’s populat
 
 <span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</b></span>
 
+<h3><b><i>5. Has COVID-19 impacted different groups of people (women, impoverished, minorities, etc.) in different ways? What are the differences, and are they present within some countries or between countries? </i></b></h3>
+
+(a).
+
+Covid-19 has impacted people with different genders from the perspectives of unemployment rate as well as confirmed cased and death counts. To see how different genders being affected in different ways, the unemployment rate and confirmed Covid-19 cases and deaths counts during the Pandemic within and between countries would be studied here.
+
+With data from The World Bank (2020) and Global Health 5050 (2020), here comes 2 line plots for female and male unemployment rate, 2 bar charts for cases and deaths counts based on gender and 2 pie charts for the ratio of female and male cases and deaths in Bangladesh.
+
+First, having a look at how unemployment rate of female and male would change during the Pandemic in each country. 
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Unemployment_female/" height="650" width="90%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Unemployment_male/" height="650" width="90%"></iframe>
+Looking through each year’s female and male unemployment rate for each country, it can be demonstrated that Egypt (pink line) and Brazil (light blue line) always had the highest female and male unemployment rate, and then came other countries. And among these countries, it seemed like there was no big difference in change in each country’s female and male unemployment rate from the year 2019 to 2020, <span style="background-color:yellow"><b> which might indicate that female and male might be influenced in the similar way from the respective of unemployment rate -- both had no big change --  within and among 7 countries during the Pandemic.</b></span>
+(b).
+
+Having looked at the change in unemployment rate for different genders, we can also have a look at how differently females and males could be impacted by Covid-19. Here comes 2 bar charts indicating the ratio of female and male in Covid-19 confirmed cases and deaths for India, Sri Lanka, Bangladesh, Pakistan and Brazil.
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirmed_genderRatio/" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Deaths_genderRatio/" height="650" width="90%"></iframe>
+We can see that for Covid-19 confirmed cases, India, Sri Lanka and Bangladesh all had their males much more than females being tested positive, and Brazil had nearly the same amount of males and females being confirmed of Covid-19. Pakistan was the only country having females more than males, even though the difference between genders was not as much as the differences between genders in India, Sri Lanka and Bangladesh, being in confirmed cases. 
+
+For Covid-19 death counts, all the 5 countries had their males more than females in deaths. Among these countries, Sri Lanka had the biggest variance in death counts between two genders, then came Bangladesh, and then was India, and last were Pakistan and Brazil. 
+
+So, we can conclude that:
+
+<span style="background-color:yellow"><b>Bangladesh, India and Sri Lanka showed the most obvious difference between two genders when it came to Covid-19 confirmed cases and death counts. And they all had much more males than females being attacked by the pandemic. For Pakistan and Brazil, the difference between genders was less obvious in the perspective of Covid-19 confirmed cases and death counts. For Indonesia and Egypt, it would be hard to say since there was no data for their gender related Covid-19 cases and death counts.</b></span> 
+
+(c).
+
+To see more specifically how people with different genders being involved in Covid-19 within a country, Bangladesh, which had the most obvious difference between two genders for Covid-19 confirmed cases and deaths, would be studied here. For this, here comes 2 pie charts showing exact ratio of males and female in confirmed cases and deaths. 
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Bangladesh_confirm_gender/" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Bangladesh_deaths_gender/" height="650" width="90%"></iframe>
+<span style="background-color:yellow"><b>It can be shown that in Bangladesh, nearly 3/4 of total confirmed cases were males and more than 3/4 of total deaths were males. Which indicated that much more males than females in Bangladesh would be affected by Covid-19.</b></span>
 
 <i><b><font color = "red" size=6>References:</font></b></i>
 
