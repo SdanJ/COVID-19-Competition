@@ -12,6 +12,8 @@ With data from <i><b><font color = "red">Trading Economics (2020)<sup><a href='h
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src=" https://sdanj.github.io/QuarterlyUnemployment/" height="650" width="90%"></iframe>
 <p style = 'text-align :center'><i><font face='Times New Roman'>Figure 3.a.1</font></i></p>
 
+
+
 We can see that all countries’ unemployment rate had risen after Q1 2020 except Indonesia (purple line). And among these countries, India (dark blue line) had the most obvious increase in unemployment rate from Q1 2020 to Q2 2020, then came Egypt (green line) and Brazil (orange line). For Sri Lanka, even though there was no data after Q1 2020, it could be seen that it had the tendency of an increasing unemployment rate.
 
 Now, we had a basic idea about the condition of job losing in each 5 countries, it is a good time to look at how each country’ economic being influenced during the Pandemic. 
