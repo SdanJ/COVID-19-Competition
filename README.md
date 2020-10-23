@@ -1,6 +1,6 @@
 # COVID-19-Competition
 
-<h1>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</h1>
+<h1><i><font face = 'Times New Roman'>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</font></i></h1>
 
 <h3><b><i>1. The focus of this data visualization topic is comparison, why are some countries experiencing this pandemic so differently than others?</i></b></h3>
 
