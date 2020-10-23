@@ -195,7 +195,7 @@ https://www.state.gov/reports/2018-report-on-international-religious-freedom/ind
 
 For cultural characteristics, religions composition for each country’s population is shown in the upper left figure.  For most countries, they all have a predominant religion except Brazil.  Since Brazil violates the possible trend for socio-economic status scores to affect Covid-19 confirmed cases. Also, it had declared a lot of measures. The possible reason is that Brazil has multiple main religions. Lastly, compared with total covid-19 cases distribution, there are no obvious general relationship between variety of religions in a country and situation of covid-19 pandemic in a country.  
 
-<span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</span></b>
+<span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</b></span>
 
 
 <i><b><font color = "red" size=6>References:</font></b></i>
