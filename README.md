@@ -3,17 +3,15 @@
 <h1>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</h1>
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_1.png" height="650" width="90%"></iframe>
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_2.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_3.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_4.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_5.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_7.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_8.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_9.png" height="650" width="90%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_10.png" height="650" width="90%"></iframe>
-
+<img src="/Users/jinshengdan/Desktop/Q2_1.png">
+<img src="/Users/jinshengdan/Desktop/Q2_2.png">
+<img src="/Users/jinshengdan/Desktop/Q2_3.png">
+<img src="/Users/jinshengdan/Desktop/Q2_4.png">
+<img src="/Users/jinshengdan/Desktop/Q2_5.png">
+<img src="/Users/jinshengdan/Desktop/Q2_7.png">
+<img src="/Users/jinshengdan/Desktop/Q2_8.png">
+<img src="/Users/jinshengdan/Desktop/Q2_9.png">
+<img src="/Users/jinshengdan/Desktop/Q2_10.png">
 
 
 
