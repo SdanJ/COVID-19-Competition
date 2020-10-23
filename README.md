@@ -69,9 +69,6 @@ Different categorical measures played different roles in controlling Covid-19 Pa
 
 
 
-
-
-
 <h3><b><i>3. Jobs are being lost worldwide at an unprecedented rate, and the economic impact of the COVID-19 Pandemic is not the same throughout each of these countries, what are the differences in these economic shocks? What responses have been and are being made to help mitigate this issue? Have they worked?</i></b></h3>
 
 
@@ -171,7 +168,7 @@ So, we can conclude that:
 In order to analyze possible roles of socio-economic, topographical and cultural characteristics in the Covid-19 pandemic. Socio-economic status score is used to represent socio-economic characteristic. Population density is used to represent topographical characteristic. Country’s composition of religions is used to represent cultural characteristic.
 Firstly, a bar chart for each country’s socio-economic status score is shown to explore the role of socio-economic characteristic in the Covid-19 pandemic.
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/SES-7-Countries/" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/SES-7-Countries/" height="650" width="90%"></iframe>
 https://www.kaggle.com/sdorius/globses
 For the bar chart for socio-economic status (2010), Sri Lanka has the largest score, Brazil, Egypt, and Indonesia have the second, third and fourth largest score. India, Bangladesh, and Pakistan have the similar small score compared with other countries.
 
@@ -179,7 +176,7 @@ From comparison of socio-economic status for seven countries and their covid-19 
 
 Next, a bar chart for population density of each country is shown to explore the role topographic characteristic in Covid-19 pandemic.
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Population-Density/" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Population-Density/" height="650" width="90%"></iframe>
 From the comparison of population density for seven countries and Covid-19 cases of seven countries, population density did not play an obvious role in the covid-19 pandemic. The reasons are illustrated as follows. Firstly, Bangladesh has the largest population density, but it has less Covid-19 confirmed case number compared to other 6 countries. India has the second population density among seven countries, but it has the second most covid-19 confirmed case number. Br
 
 
@@ -187,7 +184,7 @@ azil has the smallest population density among seven countries, but it has the s
 
 Lastly, each country’s religion composition is shown in the bar chart below.
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Religion-Distribution/" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Religion-Distribution/" height="650" width="90%"></iframe>
 https://www.uscirf.gov/sites/default/files/Tier2_INDIA_2019.pdf
 https://www.state.gov/wp-content/uploads/2020/05/SRI-LANKA-2019-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf
 https://en.wikipedia.org/wiki/Freedom_of_religion_in_Bangladesh#cite_note-6
