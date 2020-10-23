@@ -26,7 +26,7 @@ With data from <i><b><font color = "red">Trading Economics (2020)</font></b><i>,
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/IncomeSupport/ " height="650" width="90%"></iframe>
 
-<i><b><font color = "red" size=18>References:</sup></font></b><i>
+<i><b><font color = "red" size=14>References:</font></b></i>
 
 [1] Trading Economics. (2020). [Graphic representation of data]. India Unemployment Rate. Retrieved from https://tradingeconomics.com/india/unemployment-rate
 
