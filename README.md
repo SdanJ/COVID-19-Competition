@@ -280,30 +280,84 @@ To see more specifically how people with different genders being involved in Cov
 
 <i><b><font color = "red" size=6>References:</font></b></i>
 
-[1] Trading Economics. (2020). [Graphic representation of data]. India Unemployment Rate. Retrieved from https://tradingeconomics.com/india/unemployment-rate
+Humdata. (2020). Novel Coronavirus (COVID-19) Cases Data. [Data file and code book]. Available from Humdata Website: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
-[2] Trading Economics. (2020). [Graphic representation of data].  Sri Lanka Unemployment Rate. Retrieved from https://tradingeconomics.com/sri-lanka/unemployment-rate
+Humdata. (2020). COVID-19 Government Measures Dataset. [Data file and code book]. Available from Humdata Website: https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset
 
-[3] Trading Economics. (2020). [Graphic representation of data]. Brazil Unemployment Rate. Retrieved from https://tradingeconomics.com/brazil/unemployment-rate
 
-[4] Trading economics. (2020). [Graphic representation of data]. Egypt Unemployment Rate. Retrieved from https://tradingeconomics.com/egypt/unemployment-rate
+Trading Economics. (2020). [Graphic representation of data]. India Unemployment Rate. Retrieved from https://tradingeconomics.com/india/unemployment-rate
 
-[5] Trading Economics. (2020). [Graphic representation of data]. Indonesia Unemployment Rate. Retrieved from https://tradingeconomics.com/indonesia/unemployment-rate
 
-[6] Trading Economics. (2020). [Graphic representation of data]. India GDP Growth Rate. Retrieved from https://tradingeconomics.com/india/gdp-growth
+Trading Economics. (2020). [Graphic representation of data].  Sri Lanka Unemployment Rate. Retrieved from https://tradingeconomics.com/sri-lanka/unemployment-rate
 
-[7] Trading Economics. (2020). [Graphic representation of data].  Sri Lanka GDP Annual Growth Rate. Retrieved from https://tradingeconomics.com/sri-lanka/gdp-growth-annual
 
-[8] Trading Economics. (2020). [Graphic representation of data]. Brazil GDP Growth Rate. Retrieved from https://tradingeconomics.com/brazil/gdp-growth
+Trading Economics. (2020). [Graphic representation of data]. Brazil Unemployment Rate. Retrieved from https://tradingeconomics.com/brazil/unemployment-rate
 
-[9] Trading economics. (2020). [Graphic representation of data]. Egypt GDP Annual Growth Rate. Retrieved from  https://tradingeconomics.com/egypt/gdp-growth-annual
 
-[10] Trading Economics. (2020). [Graphic representation of data]. Indonesia GDP Growth Rate. Retrieved from https://tradingeconomics.com/indonesia/gdp-growth
+Trading economics. (2020). [Graphic representation of data]. Egypt Unemployment Rate. Retrieved from https://tradingeconomics.com/egypt/unemployment-rate
 
-[11] International Monetary Fund. (2020). [Customized dataset based on chosen indicators]. World Economic Outlook Database. Retrieved from https://www.imf.org/en/Publications/WEO/weo-database/2020/October/select-country-group
 
-[12] Humdata. (2020). COVID-19 Government Measures Dataset. [Data file and code book]. Available from Humdata Website: https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset
+Trading Economics. (2020). [Graphic representation of data]. Indonesia Unemployment Rate. Retrieved from https://tradingeconomics.com/indonesia/unemployment-rate
 
-[13] Blavatnik School of Government in University of Oxford (2020). CORONAVIRUS GOVERNMENT RESPONSE TRACKER. [Web page with data file]. Available from the Research projects web page of the Blavatnik School of Government in University of Oxford: https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+
+Trading Economics. (2020). [Graphic representation of data]. India GDP Growth Rate. Retrieved from https://tradingeconomics.com/india/gdp-growth
+
+
+Trading Economics. (2020). [Graphic representation of data].  Sri Lanka GDP Annual Growth Rate. Retrieved from https://tradingeconomics.com/sri-lanka/gdp-growth-annual
+
+
+Trading Economics. (2020). [Graphic representation of data]. Brazil GDP Growth Rate. Retrieved from https://tradingeconomics.com/brazil/gdp-growth
+
+
+Trading economics. (2020). [Graphic representation of data]. Egypt GDP Annual Growth Rate. Retrieved from https://tradingeconomics.com/egypt/gdp-growth-annual
+
+
+Trading Economics. (2020). [Graphic representation of data]. Indonesia GDP Growth Rate. Retrieved from https://tradingeconomics.com/indonesia/gdp-growth
+
+
+International Monetary Fund. (2020). [Customized dataset based on chosen indicators]. World Economic Outlook Database. Retrieved from https://www.imf.org/en/Publications/WEO/weo-database/2020/October/select-country-group
+
+
+Humdata. (2020). COVID-19 Government Measures Dataset. [Data file and code book]. Available from Humdata Website: https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset
+
+
+Blavatnik School of Government in University of Oxford (2020). CORONAVIRUS GOVERNMENT RESPONSE TRACKER. [Web page with data file]. Available from the Research projects web page of the Blavatnik School of Government in University of Oxford: https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+
+
+sdorius(2016). [Dataset in Kaggle]. Country Socioeconomic Status Scores: 1880-2010. Retrieved from https://www.kaggle.com/sdorius/globses
+
+
+USCIRF (2019). Annual Report 2019. Retrieved from  https://www.uscirf.gov/sites/default/files/Tier2_INDIA_2019.pdf
+
+
+SRI LANKA 2019 INTERNATIONAL RELIGIOUS FREEDOM REPORT(2019). Retrieved from
+https://www.state.gov/wp-content/uploads/2020/05/SRI-LANKA-2019-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf
+
+
+Wkipedia(2020). Freedom of religion in Bangladesh. Retrieved from https://en.wikipedia.org/wiki/Freedom_of_religion_in_Bangladesh#cite_note-6
+
+
+PAKISTAN 2019 INTERNATIONAL RELIGIOUS FREEDOM REPORT(2019). Retrieved from https://pk.usembassy.gov/wp-content/uploads/sites/76/2019-pakistan-irf-report.pdf
+
+
+U.S. Department of State (2019). 2019 Report on International Religious Freedom: Brazil.  Retrieved from https://www.state.gov/reports/2019-report-on-international-religious-freedom/brazil/
+
+
+U.S. Department of State (2019). 2019 Report on International Religious Freedom: Egypt.  Retrieved from https://www.state.gov/reports/2019-report-on-international-religious-freedom/egypt/
+
+
+U.S. Department of State (2019). 2019 Report on International Religious Freedom: Indonesia.  Retrieved from https://www.state.gov/reports/2018-report-on-international-religious-freedom/indonesia/
+
+
+The World Bank. (2020). Unemployment, female (% of female labor force). [Data file and code book]. Available from The World Bank Website: https://data.worldbank.org/indicator/SL.UEM.TOTL.FE.ZS
+
+
+The World Bank. (2020). Unemployment, male (% of male labor force). [Data file and code book]. Available from The World Bank Website: https://data.worldbank.org/indicator/SL.UEM.TOTL.MA.ZS
+
+
+Global Health 5050. (2020). [Customized dataset based on chosen countries and indicators]. The COVID-19 Sex-Disaggregated Data Tracker. Retrieved from https://globalhealth5050.org/the-sex-gender-and-covid-19-project/
+
+
+
 
 
