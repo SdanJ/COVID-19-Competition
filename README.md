@@ -53,9 +53,53 @@ With above information, we can conclude that:
 
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Workplace_close/" height="650" width="90%"></iframe>
+(b).
 
+Facing different degrees of economic shocks, each country applied different economic measures to mitigate the shocks. Below information was provided by <i><b><font color = "red">ACAPS (2020)</font></b><i>. 
+
+India implemented several economic measures from 3/15/2020 to 8/19/2020, which included “Deploy fiscal resources for additional medical facilities, central instruct state government”, “Relief Package towards responsive Governance in Challenging Times Which Will Provide Relief to Vulnerable Sections”, “Govt gives benefits to farmers on crop loan repayments due to Covid-19 lockdown”, “CBDT issues orders u/s 119 of IT Act,1961 to mitigate hardships to taxpayers arising out of compliance of TDS/TCS provisions”, “Amends the extant FDI policy for curbing opportunistic takeovers/acquisitions of Indian companies due to the current COVID-19 pandemic”, “$1.5 billion loan to support government's response to COVID-19 pandemic”, “Government of India & AIIB sign an Agreement for $750 Million for COVID-19 support for India” and “RBI provides additional monetary support to housing, rural and priority sectors”.
+
+
+Sri Lanka implemented several economic measures from 3/19/2020 to 7/25/2020, which included “Sri Lanka SEC to grant relief to investors affected by the COVID-19 hit market”, “Sri Lankan Airlines implements cost-saving measures to ensure its survival, livelihoods of employees”, “Low income vulnerable families have been granted a host of financial and material benefits in the face of the COVID-19 outbreak”, “Sri Lanka introduces tax-free deposit account to attract foreign currency”, “Sri Lanka government re-introduces abolished taxes”. “Government purchases over 900,000 kilos of vegetables from farmers” and “Extension of the agreed period regarding the private sector salary payment in the crisis caused by the Covid-19 Epidemic”.
+
+
+Bangladesh implemented economic measure of “Targeting Covid-19 Relief Payments” in 5/8/2020 
+
+
+Pakistan implemented several economic measures from 3/19/2020 to 5/21/2020, which included “Economic intervention to safeguard national economy from adverse impacts of corona pandemic. This includes actively coordinating for necessary emergency funds to ward off negative impacts on industry”, “A massive 1.2 trillion-rupee relief package announced by the Federal government will be distributed among all provinces without any discrimination”, “Web portal for financial support of unemployed due to Covid-19” and “6 million category-4 beneficiaries under Ehsaas Emergency Cash channeled through PM-COVID19 funds”.
+
+
+Brazil implemented several economic measures from 4/3/2020 to 5/29/2020, which included “Tax exemptions on medicines and medical supplies were granted, while the pharmaceutical industry agreed to suspend the annual increase of medicines for two months” and “Bill passed by the Federal Senate earlier to provide some income for the poorest, unemployed and workers in the informal economy with no fixed income, as well as states and municipalities to combat the COVID-19”.
+
+
+Egypt implemented several economic measures from 3/17/2020 to 8/17/2020, which included “The Central Bank of Egypt announced a temporary daily cash withdrawal limits of 10,000 Egyptian pounds (USD 636) for individuals and 50,000 Egyptian pounds (USD 3184) for companies. ATM withdrawals are capped at 5000 Egyptian pounds (USD 318). The bank also encouraged the use of digital bank transfers and electronic payments to reduce contact and exposure. Associated fees have been waived” and “The Egyptian authorities are carrying out a number of national megaprojects to increase aggregate demand and create jobs”.
+
+
+Indonesia implemented several economic measures from 5/6/2020 to 7/20/2020, which included “APEC economies agree to keep markets open and trade flowing”, “The Government of Indonesia has announced a fund allocation of IDR. 695.2 trillion to mitigate the impact of the COVID19 pandemic, which includes IDR. 203.9 trillion for social assistance” and “The Coordinating Ministry for Economic Affairs plans to re-start its pre-employment training program by opening a fourth batch of trainings by the end of July”.
+
+
+(c).
+
+All 7 countries had taken various economic measures during different time in 2020. To see if these measures had worked, 2 variables were used and treated as indicators here to show where the economy was headed: Workplace closing index and Income support index. These two indices could be found from the Research projects web page of the <i><b><font color = "red">Blavatnik School of Government in University of Oxford (2020)</font></b><i>. Closing workplace could have a huge impact on economic in that it would bring a reduction in the number of working people, and if there were more workplaces being closed, it would mean more people would take time off the work, and the economy might be being through a worse condition. And income support, which is used for helping people on a low income, could imply how bad the economic was since if there was more income support needed, it would mean more people were under a low income and the economy was in a worse condition. 
+
+Based on above description and under the case that no governments among these countries were closing workplaces to force the economy ticking, changes in workplaces closing and income support before and after economic measures being applied could indicate and help us to learn how economy would change after economic measures being implemented. Here comes 2 line plots for the workplace closing index and income support index during the year 2020 (Figure 3.c.1 and Figure 3.c.2). The indices would show at what scale the workplace was closed or the income support was granted. 
+
+<i><font face='Times New Roman' size=2>Figure 3.c.1</font></i>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Workplace_close/" height="650" width="90%"></iframe>
+<p style = 'text-align :center'><i><font face='Times New Roman' size=2>Figure 3.c.1</font></i></p>
+
+<i><font face='Times New Roman' size=2>Figure 3.c.2</font></i>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/IncomeSupport/ " height="650" width="90%"></iframe>
+<p style = 'text-align :center'><i><font face='Times New Roman' size=2>Figure 3.c.2</font></i></p>
+
+It can be shown from the Figure 3.c.1 that most countries started to close their workplaces in March, the time around when the Pandemic arrived, and there was a drop in the scale of workplace closing for each country around the month June, the time when several measures were and being applied. And for Sri Lanka (green line), it had the most obvious drop in scale in June, then were India (dark blue line) and Bangladesh (purple line), and then were Brazil (light blue line), Indonesia (red line) and Pakistan (orange line). For Egypt (pink line), there was no change in scale from March to October. From the figure 3.c.2, we can see that most countries started to provide income support around March and April, the time around when the Pandemic arrived, and it seemed like most countries (without data for Sri Lanka) were still keeping the scale of income support through the time, while India (dark blue line) and Bangladesh (purple line) had a drop in scale in September and May respectively. 
+
+
+So, we can conclude that:
+
+<span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. Foe Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicator, there might need more to learn about its economy. </b></span>
+
+
 
 
 <i><b><font color = "red" size=6>References:</font></b></i>
