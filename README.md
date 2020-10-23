@@ -148,7 +148,7 @@ We can see that when putting Yearly GDP of Bangladesh and Pakistan in all the 7 
 
 With above information, we can conclude that:
 
-<span style="background-color:yellow"><b>India and Brazil were the two countries being hurt most badly in their economy. And for Indonesia and Sri Lanka, there showed a decrease in their GDP but not as bad as India and Brazil. For Bangladesh and Egypt, there would still be an increasing GDP but would be a slowly increasing one. Last, for Pakistan, it would be hard to tell since there was no enough data for its GDP in or after the year 2020.</b></span>
+<span style="background-color:yellow"><b>India and Brazil are the two countries confronted with severe economy decreasing. And for Indonesia and Sri Lanka, although they also have a decrease in GDP but the situation is not as bad as India and Brazil. For Bangladesh and Egypt, although their GDP is still increasing but the increasing rate slows down. Last, for Pakistan, it would be hard to tell since data for 2020 is still not published.</b></span>
 
 
 
@@ -198,7 +198,7 @@ It can be shown from the line plot for the workplace closing index that most cou
 
 So, we can conclude that:
 
-<span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. Foe Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicator, there might need more to learn about its economy. </b></span>
+<span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicators, more data is needed to learn about its economy.</b></span>
 
 <h3><b><i>4. What cultural, socio-economic, and topographic characteristics could be playing a role in the COVID-19 pandemic? What role are they playing? How do you know?</i></b></h3>
 
