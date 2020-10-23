@@ -44,7 +44,7 @@ With data from <i><b><font color = "red">Trading Economics (2020)</font></b><i>,
 
 [8] Trading Economics. (2020). [Graphic representation of data]. Brazil GDP Growth Rate. Retrieved from https://tradingeconomics.com/brazil/gdp-growth
 
-[9] Trading economics. (2020). [Graphic representation of data]. Egypt GDP Annual Growth Rate. Retrieved from https://tradingeconomics.com/egypt/gdp-growth-annual
+[9] Trading economics. (2020). [Graphic representation of data]. Egypt GDP Annual Growth Rate. Retrieved from  https://tradingeconomics.com/egypt/gdp-growth-annual
 
 [10] Trading Economics. (2020). [Graphic representation of data]. Indonesia GDP Growth Rate. Retrieved from https://tradingeconomics.com/indonesia/gdp-growth
 
