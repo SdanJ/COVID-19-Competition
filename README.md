@@ -1,6 +1,14 @@
 # COVID-19-Competition
 
 <h1>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</h1>
+
+<h3><b><i>1. The focus of this data visualization topic is comparison, why are some countries experiencing this pandemic so differently than others?</i></b></h3>
+
+For the disease itself, the number of confirmed cases and death cases for different countries vary. This is partly because of the quantity, frequency and effectiveness difference of the government methods in difference countries. For example, the implementation of government measures for India is not efficient to control the Covid-19.  Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. The question also concerning the reaction speed of government (whether increase methods if more confirmed cases domestically) towards the situation also vary. For example, Brazil government announced quite a lot methods in April. But it failed to implement and announce more effective methods to deal with the increasing rate of confirmed cases in the country. Other factors contributing to the difference includes the socio-economic status index, po. For a country with a high index like Sri Lanka, higher education level and salary, and their occupations distribution have a negative correlation with the confirmed cases.  
+
+Countries also suffer from Covid-19 in economy differently. The economy of India and Brazil suffers from covid-19 severely. Indonesia and Sri Lanka also suffers a decreasing in GDP.  The pandemic slows down the GDP increasing in Bangladesh and Egypt. Governments also published several methods to motivate the economy recovery. Although there is no direct evidence to indicate the economy has been recovered or the decreasing rate has been alleviated. But more working places have been opened and families are with less income support may imply that the situation is getting better.
+
+
 <h3><b><i>2. Have the responses to the pandemic been different between or within these five countries? How? What were the results of these responses?</i></b></h3>
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirm_cases/" height="650" width="90%"></iframe>
