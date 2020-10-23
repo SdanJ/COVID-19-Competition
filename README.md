@@ -9,10 +9,8 @@ COVID-19 Pandemic has different economic impacts on the countries like India, Sr
 
 With data from <i><b><font color = "red">Trading Economics (2020)<sup><a href='https://tradingeconomics.com/india/unemployment-rate' target='_blank'>[1]</a><a href='https://tradingeconomics.com/india/unemployment-rate' target='_blank'>[2]</a><a href='https://tradingeconomics.com/brazil/unemployment-rate' target='_blank'>[3]</a><a href='https://tradingeconomics.com/egypt/unemployment-rate' target='_blank'>[4]</a><a href='https://tradingeconomics.com/indonesia/unemployment-rate' target='_blank'>[5]</a></sup></font></b><i>, here comes the line chart of quarterly unemployment rate (%) for India, Sri Lanka, Egypt, Indonesia and Brazil (Figure 3.a.1)
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src=" https://sdanj.github.io/QuarterlyUnemployment/" height="650" width="90%"></iframe>
 <p style = 'text-align :center'><i><font face='Times New Roman'>Figure 3.a.1</font></i></p>
-
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src=" https://sdanj.github.io/QuarterlyUnemployment/" height="650" width="90%"></iframe>
 
 We can see that all countries’ unemployment rate had risen after Q1 2020 except Indonesia (purple line). And among these countries, India (dark blue line) had the most obvious increase in unemployment rate from Q1 2020 to Q2 2020, then came Egypt (green line) and Brazil (orange line). For Sri Lanka, even though there was no data after Q1 2020, it could be seen that it had the tendency of an increasing unemployment rate.
 
