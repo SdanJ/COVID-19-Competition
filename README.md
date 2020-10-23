@@ -5,7 +5,14 @@
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_1.png" height="650" width="90%"></iframe>
 
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_2.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_3.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_4.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_5.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_7.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_8.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_9.png" height="650" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_10.png" height="650" width="90%"></iframe>
 
 
 
