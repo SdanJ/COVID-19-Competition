@@ -221,13 +221,13 @@ From the comparison of population density for seven countries and Covid-19 cases
 Lastly, each country’s religion composition is shown in the bar chart below.
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Religion-Distribution/" height="650" width="90%"></iframe>
-<p style='text-align:center'><a href='https://www.uscirf.gov/sites/default/files/Tier2_INDIA_2019.pdf' target='_blank'>Check the raw data</a></p>
-<p style='text-align:center'><a href='https://www.state.gov/wp-content/uploads/2020/05/SRI-LANKA-2019-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf' target='_blank'>Check the raw data</a></p>
-<p style='text-align:center'><a href='https://en.wikipedia.org/wiki/Freedom_of_religion_in_Bangladesh#cite_note-6' target='_blank'>Check the raw data</a></p>
-<p style='text-align:center'><a href='https://pk.usembassy.gov/wp-content/uploads/sites/76/2019-pakistan-irf-report.pdf' target='_blank'>Check the raw data</a></p>
-<p style='text-align:center'><a href='https://www.state.gov/reports/2019-report-on-international-religious-freedom/brazil/' target='_blank'>Check the raw data</a></p>
-<p style='text-align:center'><a href='https://www.state.gov/reports/2019-report-on-international-religious-freedom/egypt/' target='_blank'>Check the raw data</a></p>
-<p style='text-align:center'><a href='https://www.state.gov/reports/2018-report-on-international-religious-freedom/indonesia/' target='_blank'>Check the raw data</a></p>
+<p style='text-align:center'><a href='https://www.uscirf.gov/sites/default/files/Tier2_INDIA_2019.pdf' target='_blank'>Check the raw data on USCIRF Website</a></p>
+<p style='text-align:center'><a href='https://www.state.gov/wp-content/uploads/2020/05/SRI-LANKA-2019-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf' target='_blank'>Check the raw data in Report</a></p>
+<p style='text-align:center'><a href='https://en.wikipedia.org/wiki/Freedom_of_religion_in_Bangladesh#cite_note-6' target='_blank'>Check the raw data on Wekipedia page</a></p>
+<p style='text-align:center'><a href='https://pk.usembassy.gov/wp-content/uploads/sites/76/2019-pakistan-irf-report.pdf' target='_blank'>Check the raw data in Report</a></p>
+<p style='text-align:center'><a href='https://www.state.gov/reports/2019-report-on-international-religious-freedom/brazil/' target='_blank'>Check the raw data on U.S Department of State Website</a></p>
+<p style='text-align:center'><a href='https://www.state.gov/reports/2019-report-on-international-religious-freedom/egypt/' target='_blank'>Check the raw data on U.S Department of State Website</a></p>
+<p style='text-align:center'><a href='https://www.state.gov/reports/2018-report-on-international-religious-freedom/indonesia/' target='_blank'>Check the raw data on U.S Department of State Website</a></p>
 
 For cultural characteristics, religions composition for each country’s population is shown in the upper left figure.  For most countries, they all have a predominant religion except Brazil.  Since Brazil violates the possible trend for socio-economic status scores to affect Covid-19 confirmed cases. Also, it had declared a lot of measures. The possible reason is that Brazil has multiple main religions. Lastly, compared with total covid-19 cases distribution, there are no obvious general relationship between variety of religions in a country and situation of covid-19 pandemic in a country.  
 
