@@ -3,13 +3,13 @@
 <h1>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</h1>
 <h3><b><i>2. Have the responses to the pandemic been different between or within these five countries? How? What were the results of these responses?</i></b></h3>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirm_cases/" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirm_cases/" height="650" width="90%"></iframe>
 
 For the figure of the total number of covid-19 confirmed cases in seven countries over time, Brazil is found which had the most confirmed cases from May,2020 to August,2020, and then India exceeded Brazil at the beginning of September,2020. Other 5 countries have much less confirmed cases than these two countries. The Covid-19 confirmed case increase rate for Brazil began to slow down during August,2020. When India exceeded Brazil, its increase rate of Covid-19 confirmed cases was still increasing. Up to October 2020, India still had the high confirmed rate. Sri Lanka had slowest increase in number of Covid-19 confirmed case over time. Pakistan, Indonesia, and Bangladesh also had a slow increase in total number of Covid-19 confirmed cases
 
 Next, number of covid-19 death case for these seven countries over time are explored. 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Deaths_counts/" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Deaths_counts/" height="650" width="90%"></iframe>
 
 For the figure for situations of covid-19 death cases, Brazil has the most death number compared to other countries.  India has the second most death number compared to other five countries. Sri Lanka, Pakistan, Indonesia, and Bangladesh also had a slow increase in total number of Covid-19 death cases
 
@@ -19,7 +19,7 @@ However, it’s important to notice that proportions for covid-19 confirmed case
 In order to have a better comparsion for seven countries Covid-19 cases, a bar chart for total number of covid-19 confirmed casese, death and recovery is plotted.
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src=" https://sdanj.github.io/Compare-7-Countries-total-cases-recovery-and-death/
-" width="100%"></iframe>
+" height="650" width="90%"></iframe>
 
 From the bar chart to show number of covid-19 cases, it’s clearer to observe the final situations for all countries compared to timeline charts for number of covid-19 cases which plotted before. It shows the same conclusions as line charts for covid-19 confirmed cases and death cases. India has the most covid-19 confirmed cases and Brazil has the second most covid-19 confirmed cases. Bangladesh has the third most covid-19 confirmed cases, Indonesia has the fourth most covid-19 confirmed cases. Pakistan has the fifth most covide-19 confirmed cases. Sri Lanka has the least covide-19 confirmed cases.
 
