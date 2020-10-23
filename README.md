@@ -3,7 +3,7 @@
 <h1>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</h1>
 
 
-<img  scrolling="no" style="border:none;" seamless="seamless" src="/Users/jinshengdan/Desktop/Q2_1.png" height="650" width="90%">
+<img  scrolling="no" style="border:none;" seamless="seamless" src="https://lh3.googleusercontent.com/mubZmdtQdMSKW4Wz0vPY69YD-vVQSNFdRjUwe4dDGopJk95dDjlYKaZxrf_uju_t6Y3G3ckMG85eW9ChIZ0doVPQmWhwig3zwOB37PQahIP3ysM5DwxJuMF8tPWX9qg0q6t318NVaE4Zgm5tsEjJRW-cXmiHf3r4i4J8DlEcgFQCfOr3BS5485ighu_fEgHPAbqpYB6q9ogPZNuk4Ec2YGI36Z-szQMkMT40f9sDV3-Gblh-BlML63FgcwRLa93VF60S4QAvse6ngt2Myslk2qumLH5KWiZ-t_c8tJ9bXvL515BFBKOifylkppIEpksx617fG3FJmAlQZBiohotsrj_0wiDamWBZuPZKB0LDz329rBKOH_DCmWf5zK_yo4BvqcctnNDsG95DruzihRuHzDAWc4AqhjJZvWosEePJdzqlulECHvXVvMJ0BnYnXt14tPnS3PoemHAjib6wRfz1RFrAbuXQZyw9STzN30TtFUlDaaRYHdGIkEG_Swy7M2ZGrQyIobbWc8eF6jwPYgH0YHPS7aFO-wMz0h1rV2iFXKQ0Ae9pz_IXHBAWb3Pv3G0hi0JUqnRyRkkWGww3y4NQB2m8lv_amyHp7tFCUVzDtdigcFW7JY3zEjBWGOyrst6mym7Cgkf8YCdm5zzeP2_JFImAMDOMgH2PWmzLbJjcCIQ324V5YC-bcltjs5E=w936-h462-no?authuser=0" height="650" width="90%">
 <img  scrolling="no" style="border:none;" seamless="seamless" src="/Users/jinshengdan/Desktop/Q2_2.png" height="650" width="90%">
 <img  scrolling="no" style="border:none;" seamless="seamless" src="/Users/jinshengdan/Desktop/Q2_3.png" height="650" width="90%">
 <img  scrolling="no" style="border:none;" seamless="seamless" src="/Users/jinshengdan/Desktop/Q2_4.png" height="650" width="90%">
