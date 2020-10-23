@@ -166,7 +166,39 @@ So, we can conclude that:
 
 <span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. Foe Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicator, there might need more to learn about its economy. </b></span>
 
+<h3><b><i>4. What cultural, socio-economic, and topographic characteristics could be playing a role in the COVID-19 pandemic? What role are they playing? How do you know?</i></b></h3>
 
+In order to analyze possible roles of socio-economic, topographical and cultural characteristics in the Covid-19 pandemic. Socio-economic status score is used to represent socio-economic characteristic. Population density is used to represent topographical characteristic. Country’s composition of religions is used to represent cultural characteristic.
+Firstly, a bar chart for each country’s socio-economic status score is shown to explore the role of socio-economic characteristic in the Covid-19 pandemic.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/SES-7-Countries/" width="100%"></iframe>
+https://www.kaggle.com/sdorius/globses
+For the bar chart for socio-economic status (2010), Sri Lanka has the largest score, Brazil, Egypt, and Indonesia have the second, third and fourth largest score. India, Bangladesh, and Pakistan have the similar small score compared with other countries.
+
+From comparison of socio-economic status for seven countries and their covid-19 cases, most high socio-economic status score’s countries have less severe Covid-19 pandemic situations.  Most low socio-economic status score’s countries have more severe Covid-19 pandemic situations. Two exceptions are Brazil and India. Therefore, these two countries might have other factors to affect their trend for Covid-19 Pandemic. For other five countries, socio-economic status score has a negative correlation with spread of Covid-19 pandemic. Higher socio-economic status score has a better ability to control Covid-19 Pandemic. Additionally, although a previous finding is that India declared a lot of government measures in movement constriction and social distancing, India did not control Covid-19 confirmed cases trends as other countries. The possible reason is that India has a low socio-economic status score.
+
+Next, a bar chart for population density of each country is shown to explore the role topographic characteristic in Covid-19 pandemic.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Population-Density/" width="100%"></iframe>
+From the comparison of population density for seven countries and Covid-19 cases of seven countries, population density did not play an obvious role in the covid-19 pandemic. The reasons are illustrated as follows. Firstly, Bangladesh has the largest population density, but it has less Covid-19 confirmed case number compared to other 6 countries. India has the second population density among seven countries, but it has the second most covid-19 confirmed case number. Br
+
+
+azil has the smallest population density among seven countries, but it has the second most confirmed case number. Therefore, the population density did not play an obvious role in the spread of covid-19 pandemic.
+
+Lastly, each country’s religion composition is shown in the bar chart below.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Religion-Distribution/" width="100%"></iframe>
+https://www.uscirf.gov/sites/default/files/Tier2_INDIA_2019.pdf
+https://www.state.gov/wp-content/uploads/2020/05/SRI-LANKA-2019-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf
+https://en.wikipedia.org/wiki/Freedom_of_religion_in_Bangladesh#cite_note-6
+https://pk.usembassy.gov/wp-content/uploads/sites/76/2019-pakistan-irf-report.pdf
+https://www.state.gov/reports/2019-report-on-international-religious-freedom/brazil/
+https://www.state.gov/reports/2019-report-on-international-religious-freedom/egypt/
+https://www.state.gov/reports/2018-report-on-international-religious-freedom/indonesia/
+
+For cultural characteristics, religions composition for each country’s population is shown in the upper left figure.  For most countries, they all have a predominant religion except Brazil.  Since Brazil violates the possible trend for socio-economic status scores to affect Covid-19 confirmed cases. Also, it had declared a lot of measures. The possible reason is that Brazil has multiple main religions. Lastly, compared with total covid-19 cases distribution, there are no obvious general relationship between variety of religions in a country and situation of covid-19 pandemic in a country.  
+
+<span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</span></b>
 
 
 <i><b><font color = "red" size=6>References:</font></b></i>
