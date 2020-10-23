@@ -3,6 +3,14 @@
 <h1>Team Jieqiao Luo, Yifan Zhu, Shengdan Jin and Leilin Wang</h1>
 
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://raw.githubusercontent.com/SdanJ/covid19_image/main/Q2_1.png" height="650" width="90%"></iframe>
+
+
+
+
+
+
+
 <h3><b><i>3. Jobs are being lost worldwide at an unprecedented rate, and the economic impact of the COVID-19 Pandemic is not the same throughout each of these countries, what are the differences in these economic shocks? What responses have been and are being made to help mitigate this issue? Have they worked?</i></b></h3>
 
 
