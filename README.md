@@ -43,7 +43,8 @@
 
 
 
-<img  scrolling="no" style="border:none;" seamless="seamless" src="https://photos.google.com/share/AF1QipMvKUbe4fRw0f3YhkSBB4eGl_UUmdDI9btkypdHL25UfO_ypF9hIRMFdZ2eRCSBXA/photo/AF1QipOVJ1SdLXWIFxptsfzfAOaI72FV7txAbLAi6EYL?key=Q1lseVlHeXJoeWMzVVBTVWJHekI2Znlxck1YM3V3" height="650" width="90%">
+<img  scrolling="no" style="border:none;" seamless="seamless" src="https://lh3.googleusercontent.com/pw/ACtC-3epAQkAA1dVpZJK70bnSire9SLGUiiAxgiQrabRbsx2WoCZaBJW61wp5YOi9wEzd7SfZOxgkvkdV7E5IY7-YZaExNFrUtV2cJH26ddgihWucLs4Mj_uJItEnAZ0ybhYYmZex07X25pk1YT58nWv-EE=w936-h462-no?authuser=0" height="650" width="90%">
+
 
 
 <p style='text-align:center'><a href='https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases' target='_blank'>Check the raw data on Humdata Website</a></p> 
