@@ -94,15 +94,12 @@
 <p style = 'text-align: justify'>However, its increase rate for Covid-19 confirmed cases slowed down in August,2020. It means the recent measure before August might make a role in controlling Covid-19 confirmed cases. In conclusion, the announcement and implementation of government measures did not play a good role in controlling Covid-19 pandemic.</p>
 
 
-<span style="background-color:yellow"><b>In conclusion, the implementation of government measures for India is not efficient to control the Covid-19. India also did not regulate its measures to adopt the change of Covid-19 situation. The frequency of government measures for Brazil is not high and the implementation of government measures for Brazil did not play a great role in controlling Covid-19 cases. Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. For other countries, the frequency and number of measures have a positive correlation to control Covid-19 Pandemic.</b></span> 
+<p style = 'text-align: justify'>In conclusion, the implementation of government measures for India is not efficient to control the Covid-19. India also did not regulate its measures to adopt the change of Covid-19 situation. The frequency of government measures for Brazil is not high and the implementation of government measures for Brazil did not play a great role in controlling Covid-19 cases. Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. For other countries, the frequency and number of measures have a positive correlation to control Covid-19 Pandemic.</p> 
 
-<span style="background-color:yellow"><b>Different categorical measures played different roles in controlling Covid-19 Pandemic. Public health measure might can reduce death cases of Covid-19. Movement restriction and social distancing played important roles in controlling Covid-19 confirmed cases.</b></span>  
-
-
-<h3><b><i>The horrible monster COVID-19 does not only cause sickness and deaths. It harms people financially. To take the situation under control, governments try to keep people away from getting together, but at the same time, that means a lot of people cannot go to work anymore. As a result, GDP drops. Facing this situation, what are these 7 governments’ responses to it and how are they going to deal with this cold winter in the field of economy?</i></b></h3>
+<p style = 'text-align: justify'>Different categorical measures played different roles in controlling Covid-19 Pandemic. Public health measure might can reduce death cases of Covid-19. Movement restriction and social distancing played important roles in controlling Covid-19 confirmed cases.</p> 
 
 
-(a).
+<p style = 'text-align: justify'>The horrible monster COVID-19 does not only cause sickness and deaths. It harms people financially. To take the situation under control, governments try to keep people away from getting together, but at the same time, that means a lot of people cannot go to work anymore. As a result, GDP drops. Facing this situation, what are these 7 governments’ responses to it and how are they going to deal with this cold winter in the field of economy?</p>
 
 <p style = 'text-align: justify'>COVID-19 Pandemic has different economic impacts on the countries like India, Sri Lanka, Bangladesh, Pakistan, Brazil, Egypt and Indonesia, which can be demonstrated from the varying degree of changes in each country’s GDP as well as unemployment rate during the Pandemic. First, let us have a look at each country’s unemployment rate to see how jobs are being lost worldwide.</p>
 
@@ -155,9 +152,6 @@
 <span style="background-color:yellow"><b>India and Brazil are the two countries confronted with severe economy decreasing. And for Indonesia and Sri Lanka, although they also have a decrease in GDP but the situation is not as bad as India and Brazil. For Bangladesh and Egypt, although their GDP is still increasing but the increasing rate slows down. Last, for Pakistan, it would be hard to tell since data for 2020 is still not published.</b></span>
 
 
-
-(b).
-
 <p style = 'text-align: justify'>Facing different degrees of economic shocks, each country applied different economic measures to mitigate the shocks. Below information was provided by ACAPS (2020). </p>
 
 <p style='text-align:center'><a href='https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset' target='_blank'>Check the raw data on Humdata Website</a></p>
@@ -183,8 +177,6 @@
 <p style = 'text-align: justify'><b>Indonesia</b> implemented several economic measures from 5/6/2020 to 7/20/2020, which included “APEC economies agree to keep markets open and trade flowing”, “The Government of Indonesia has announced a fund allocation of IDR. 695.2 trillion to mitigate the impact of the COVID19 pandemic, which includes IDR. 203.9 trillion for social assistance” and “The Coordinating Ministry for Economic Affairs plans to re-start its pre-employment training program by opening a fourth batch of trainings by the end of July”.</p>
 
 
-(c).
-
 <p style = 'text-align: justify'>All 7 countries had taken various economic measures during different time in 2020. To see if these measures had worked, 2 variables were used and treated as indicators here to show where the economy was headed: Workplace closing index and Income support index. These two indices could be found from the Research projects web page of the Blavatnik School of Government in University of Oxford (2020). Closing workplace could have a huge impact on economic in that it would bring a reduction in the number of working people, and if there were more workplaces being closed, it would mean more people would take time off the work, and the economy might be being through a worse condition. And income support, which is used for helping people on a low income, could imply how bad the economic was since if there was more income support needed, it would mean more people were under a low income and the economy was in a worse condition. </p>
 
 <p style = 'text-align: justify'>Based on above description and under the case that no governments among these countries were closing workplaces to force the economy ticking, changes in workplaces closing and income support before and after economic measures being applied could indicate and help us to learn how economy would change after economic measures being implemented. Here comes 2 line plots for the workplace closing index and income support index during the year 2020. The indices would show at what scale the workplace was closed or the income support was granted. </p>
@@ -202,7 +194,7 @@
 
 <p style = 'text-align: justify'>So, we can conclude that:</p>
 
-<span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicators, more data is needed to learn about its economy.</b></span>
+<p style = 'text-align: justify'>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicators, more data is needed to learn about its economy.</p>
 
 
 <h3><b><i>We are talking about seven countries which can be very different from each other. They have different religions, different cultures, as well as different average education levels. So how can these factors play a role in the consequence of COVID- 19 among the 7 countries, and do they really make  a difference here? With data representing the cultural, socio-economic, and topographic characteristics of seven countries, we are determined to find out the answer. 
