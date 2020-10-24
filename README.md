@@ -10,6 +10,8 @@
 
 <p style = 'text-align: justify'>All these 7 countries are being through a hard time from the pandemic, but the governments’ responses vary from each other. Some are quite motivative, while others are not. Motivative governments are always prepared, they would like to post all kinds of methods to deal with the pandemic. Also, they respond quickly. As long as the situation changes, they correspond it with updated measures. God help those who help themselves. Countries own low confirmed cases and low death rate, while some countries do not possess this luck.</p>
 
+<p style = 'text-align: justify'>Here comes the line chart showing different confirmed cases among 7 countries to step into the analysis part.</p>
+
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirm_cases/" height="650" width="90%"></iframe>
 <p style='text-align:center'><a href='https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases' target='_blank'>Check the raw data on Humdata Website</a></p> 
 
