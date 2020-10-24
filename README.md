@@ -287,8 +287,7 @@
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Bangladesh_deaths_gender/" height="650" width="90%"></iframe>
 <p style='text-align:center'><a href='https://globalhealth5050.org/the-sex-gender-and-covid-19-project/' target='_blank'>Check the raw data on Global Health 5050 Website</a></p>
 <span style="background-color:yellow"><b>It can be shown that in Bangladesh, nearly 3/4 of total confirmed cases were males and more than 3/4 of total deaths were males. Which indicated that much more males than females in Bangladesh would be affected by Covid-19.</b></span>
-&nbsp
-&nbsp
+
 
 <i><b><font color = "red" size=6>References:</font></b></i>
 
