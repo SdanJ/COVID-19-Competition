@@ -194,11 +194,11 @@
 
 <p style = 'text-align: justify'>So, we can conclude that:</p>
 
-<p style = 'text-align: justify'>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicators, more data is needed to learn about its economy.</p>
+<p style = 'text-align: justify'>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, for Sri Lanka, even though it showed an obvious drop in the number of workplace closing, but more data is needed to learn about its economy situation.</p>
 
 
-<h3><b><i>We are talking about seven countries which can be very different from each other. They have different religions, different cultures, as well as different average education levels. So how can these factors play a role in the consequence of COVID- 19 among the 7 countries, and do they really make  a difference here? With data representing the cultural, socio-economic, and topographic characteristics of seven countries, we are determined to find out the answer. 
-</i></b></h3>
+<p style = 'text-align: justify'>In this report, we have seven countries, which means, they can be very different from each other. They have different religions, different cultures, as well as different average education levels. So how can these factors play a role in the consequence of COVID- 19 among the 7 countries, and do they really make a difference? With data representing the cultural, socio-economic, and topographic characteristics of seven countries, we are determined to find out the answer. </p>
+
 
 <p style = 'text-align: justify'>In order to analyze possible roles of socio-economic, topographical and cultural characteristics in the Covid-19 pandemic. Socio-economic status score is used to represent socio-economic characteristic. Population density is used to represent topographical characteristic. Country’s composition of religions is used to represent cultural characteristic.</p>
 <p style = 'text-align: justify'>Firstly, a bar chart for each country’s socio-economic status score is shown to explore the role of socio-economic characteristic in the Covid-19 pandemic.</p>
