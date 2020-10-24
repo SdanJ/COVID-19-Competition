@@ -11,8 +11,7 @@
 <p style = 'text-align: justify'> For the disease itself, the number of confirmed cases and death cases for different countries vary. This is partly because of the quantity, frequency and effectiveness difference of the government methods in difference countries. For example, the implementation of government measures for India is not efficient to control the Covid-19.  Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. The question also concerning the reaction speed of government (whether increase methods if more confirmed cases domestically) towards the situation also vary. For example, Brazil government announced quite a lot methods in April. But it failed to implement and announce more effective methods to deal with the increasing rate of confirmed cases in the country. Other factors contributing to the difference includes the socio-economic status index, po. For a country with a high index like Sri Lanka, higher education level and salary, and their occupations distribution have a negative correlation with the confirmed cases. </p> 
 
 <p style = 'text-align: justify'>Countries also suffer from Covid-19 in economy differently. The economy of India and Brazil suffers from covid-19 severely. Indonesia and Sri Lanka also suffers a decreasing in GDP.  The pandemic slows down the GDP increasing in Bangladesh and Egypt. Governments also published several methods to motivate the economy recovery. Although there is no direct evidence to indicate the economy has been recovered or the decreasing rate has been alleviated. But more working places have been opened and families are with less income support may imply that the situation is getting better.</p>
-&nbsp
-&nbsp
+
 
 <h3><b><i>2. Have the responses to the pandemic been different between or within these five countries? How? What were the results of these responses?</i></b></h3>
 
@@ -98,8 +97,6 @@
 <span style="background-color:yellow"><b>In conclusion, the implementation of government measures for India is not efficient to control the Covid-19. India also did not regulate its measures to adopt the change of Covid-19 situation. The frequency of government measures for Brazil is not high and the implementation of government measures for Brazil did not play a great role in controlling Covid-19 cases. Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. For other countries, the frequency and number of measures have a positive correlation to control Covid-19 Pandemic.</b></span> 
 
 <span style="background-color:yellow"><b>Different categorical measures played different roles in controlling Covid-19 Pandemic. Public health measure might can reduce death cases of Covid-19. Movement restriction and social distancing played important roles in controlling Covid-19 confirmed cases.</b></span>  
-&nbsp
-&nbsp
 
 
 <h3><b><i>3. Jobs are being lost worldwide at an unprecedented rate, and the economic impact of the COVID-19 Pandemic is not the same throughout each of these countries, what are the differences in these economic shocks? What responses have been and are being made to help mitigate this issue? Have they worked?</i></b></h3>
@@ -206,8 +203,7 @@
 <p style = 'text-align: justify'>So, we can conclude that:</p>
 
 <span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicators, more data is needed to learn about its economy.</b></span>
-&nbsp
-&nbsp
+
 
 <h3><b><i>4. What cultural, socio-economic, and topographic characteristics could be playing a role in the COVID-19 pandemic? What role are they playing? How do you know?</i></b></h3>
 
@@ -241,8 +237,7 @@
 <p style = 'text-align: justify'>For cultural characteristics, religions composition for each country’s population is shown in the upper left figure.  For most countries, they all have a predominant religion except Brazil.  Since Brazil violates the possible trend for socio-economic status scores to affect Covid-19 confirmed cases. Also, it had declared a lot of measures. The possible reason is that Brazil has multiple main religions. Lastly, compared with total covid-19 cases distribution, there are no obvious general relationship between variety of religions in a country and situation of covid-19 pandemic in a country. </p> 
 
 <span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</b></span>
-&nbsp
-&nbsp
+
 
 <h3><b><i>5. Has COVID-19 impacted different groups of people (women, impoverished, minorities, etc.) in different ways? What are the differences, and are they present within some countries or between countries? </i></b></h3>
 
