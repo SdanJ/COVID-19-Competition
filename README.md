@@ -149,7 +149,8 @@
 
 <p style = 'text-align: justify'>With above information, we can conclude that:</p>
 
-<span style="background-color:yellow"><b>India and Brazil are the two countries confronted with severe economy decreasing. And for Indonesia and Sri Lanka, although they also have a decrease in GDP but the situation is not as bad as India and Brazil. For Bangladesh and Egypt, although their GDP is still increasing but the increasing rate slows down. Last, for Pakistan, it would be hard to tell since data for 2020 is still not published.</b></span>
+
+<p style = 'text-align: justify'>India and Brazil are the two countries confronted with severe economy decreasing. And for Indonesia and Sri Lanka, although they also have a decrease in GDP but the situation is not as bad as India and Brazil. For Bangladesh and Egypt, although their GDP is still increasing but the increasing rate slows down. Last, for Pakistan, it would be hard to tell since data for 2020 is still not published.</p>
 
 
 <p style = 'text-align: justify'>Facing different degrees of economic shocks, each country applied different economic measures to mitigate the shocks. Below information was provided by ACAPS (2020). </p>
@@ -229,13 +230,12 @@
 
 <p style = 'text-align: justify'>For cultural characteristics, religions composition for each country’s population is shown in the upper left figure.  For most countries, they all have a predominant religion except Brazil.  Since Brazil violates the possible trend for socio-economic status scores to affect Covid-19 confirmed cases. Also, it had declared a lot of measures. The possible reason is that Brazil has multiple main religions. Lastly, compared with total covid-19 cases distribution, there are no obvious general relationship between variety of religions in a country and situation of covid-19 pandemic in a country. </p> 
 
-<span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</b></span>
+
+<p style = 'text-align: justify'>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason might be that Brazil has multiple main religions instead of one predominant religion for one country.</p>
 
 
-<h3><b><i>Situations within groups may vary. For instance, women and men, how people with different genders are influenced in their economic and COVID-19 situations? It seems that different genders have different death rates among these countries.
-</i></b></h3>
+<p style = 'text-align: justify'>Situations also vary within groups of different properties. For instance, women and men, how people with different gender are influenced in COVID-19? It seems that different genders have different death rates among these countries.</p>
 
-(a).
 
 <p style = 'text-align: justify'>Covid-19 has impacted people with different genders from the perspectives of unemployment rate as well as confirmed cased and death counts. To see how different genders being affected in different ways, the unemployment rate and confirmed Covid-19 cases and deaths counts during the Pandemic within and between countries would be studied here.</p>
 
@@ -251,7 +251,6 @@
 
 <p style = 'text-align: justify'>Looking through each year’s female and male unemployment rate for each country, it can be demonstrated that Egypt (pink line) and Brazil (light blue line) always had the highest female and male unemployment rate, and then came other countries. And among these countries, it seemed like there was no big difference in change in each country’s female and male unemployment rate from the year 2019 to 2020, <span style="background-color:yellow"><b> which might indicate that female and male might be influenced in the similar way from the respective of unemployment rate -- both had no big change --  within and among 7 countries during the Pandemic.</b></span></p>
 
-(b).
 
 <p style = 'text-align: justify'>Having looked at the change in unemployment rate for different genders, we can also have a look at how differently females and males could be impacted by Covid-19. Here comes 2 bar charts indicating the ratio of female and male in Covid-19 confirmed cases and deaths for India, Sri Lanka, Bangladesh, Pakistan and Brazil.</p>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirmed_genderRatio/" height="650" width="90%"></iframe>
@@ -266,9 +265,9 @@
 
 <p style = 'text-align: justify'>So, we can conclude that:</p>
 
-<span style="background-color:yellow"><b>Bangladesh, India and Sri Lanka showed the most obvious difference between two genders when it came to Covid-19 confirmed cases and death counts. And they all had much more males than females being attacked by the pandemic. For Pakistan and Brazil, the difference between genders was less obvious in the perspective of Covid-19 confirmed cases and death counts. For Indonesia and Egypt, it would be hard to say since there was no data for their gender related Covid-19 cases and death counts.</b></span> 
 
-(c).
+<p style = 'text-align: justify'>Bangladesh, India and Sri Lanka showed the most obvious difference between two genders when it came to Covid-19 confirmed cases and death counts. And they all had much more males than females being attacked by the pandemic. For Pakistan and Brazil, the difference between genders was less obvious in the perspective of Covid-19 confirmed cases and death counts. For Indonesia and Egypt, it would be hard to say since there was no data for their gender related Covid-19 cases and death counts.</p>
+
 
 <p style = 'text-align: justify'>To see more specifically how people with different genders being involved in Covid-19 within a country, Bangladesh, which had the most obvious difference between two genders for Covid-19 confirmed cases and deaths, would be studied here. For this, here comes 2 pie charts showing exact ratio of males and female in confirmed cases and deaths. </p>
 
@@ -282,7 +281,8 @@
 <p style='text-align:center'><a href='https://globalhealth5050.org/the-sex-gender-and-covid-19-project/' target='_blank'>Check the raw data on Global Health 5050 Website</a></p>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Bangladesh_deaths_gender/" height="650" width="90%"></iframe>
 <p style='text-align:center'><a href='https://globalhealth5050.org/the-sex-gender-and-covid-19-project/' target='_blank'>Check the raw data on Global Health 5050 Website</a></p>
-<span style="background-color:yellow"><b>It can be shown that in Bangladesh, nearly 3/4 of total confirmed cases were males and more than 3/4 of total deaths were males. Which indicated that much more males than females in Bangladesh would be affected by Covid-19.</b></span>
+
+<p style = 'text-align: justify'>It can be shown that in Bangladesh, nearly 3/4 of total confirmed cases were males and more than 3/4 of total deaths were males. Which indicated that much more males than females in Bangladesh would be affected by Covid-19.</p>
 
 
 <i><b><font color = "red" size=6>References:</font></b></i>
