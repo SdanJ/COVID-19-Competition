@@ -6,14 +6,14 @@
 
 <p style='text-align:center'><a href='https://github.com/JieqLuo/Covid-19-Data-Visualization-Challenge' target='_blank'>Check ALL the raw data, cleaned data, word documents and codes.</a></p> 
 
-<h3><b><i>1. The focus of this data visualization topic is comparison, why are some countries experiencing this pandemic so differently than others?</i></b></h3>
+<h3><b><i>A pandemic called COVID-19 swap the whole the planet during 2020. Many countries suffered from that. Although there are some countries like China, South Korea which have the ability to control the pandemic or reduce its effects powerfully, there are still other countries which have severe pandemic situations such as India and Brazil.   Seven countries are selected to be compared. Within the comparison, we may have a little glance of how this disease affected one third of the population of the planet and how human beings are responding to it.  Our report starts from this disaster and explores how it rages around the world. We also care about how governments respond to it and how these responses could influence the situation in return. Also, countries are always with their own uniqueness, these unique properties could also lead to various situations. Exploring how their characteristics such as cultural, socio-economic influence the Covid-19 Pandemic for these countries may reveal the mystery under the circumstance  of Covid-19 pandemic and provide some clues for future research about how to better respond to similar disasters.</i></b></h3>
 
 <p style = 'text-align: justify'> For the disease itself, the number of confirmed cases and death cases for different countries vary. This is partly because of the quantity, frequency and effectiveness difference of the government methods in difference countries. For example, the implementation of government measures for India is not efficient to control the Covid-19.  Sri Lanka announced government’s measures frequently and largely and has an efficient implementation for government’s measures. The question also concerning the reaction speed of government (whether increase methods if more confirmed cases domestically) towards the situation also vary. For example, Brazil government announced quite a lot methods in April. But it failed to implement and announce more effective methods to deal with the increasing rate of confirmed cases in the country. Other factors contributing to the difference includes the socio-economic status index, po. For a country with a high index like Sri Lanka, higher education level and salary, and their occupations distribution have a negative correlation with the confirmed cases. </p> 
 
 <p style = 'text-align: justify'>Countries also suffer from Covid-19 in economy differently. The economy of India and Brazil suffers from covid-19 severely. Indonesia and Sri Lanka also suffers a decreasing in GDP.  The pandemic slows down the GDP increasing in Bangladesh and Egypt. Governments also published several methods to motivate the economy recovery. Although there is no direct evidence to indicate the economy has been recovered or the decreasing rate has been alleviated. But more working places have been opened and families are with less income support may imply that the situation is getting better.</p>
 
 
-<h3><b><i>2. Have the responses to the pandemic been different between or within these five countries? How? What were the results of these responses?</i></b></h3>
+<h3><b><i>Even though all these 7 countries are being through a hard time from the pandemic, the governments’ responses vary from each other. Some are quite motivative, while others are not. Motivative governments are always prepared, they would like to post all kinds of methods to deal with the pandemic. Also, they respond quickly. As long as the situation changes, they correspond it with updated measures. God help those who help themselves. Countries own low confirmed cases and low death rate, while some countries do not possess this luck.</i></b></h3>
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sdanj.github.io/Confirm_cases/" height="650" width="90%"></iframe>
 <p style='text-align:center'><a href='https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases' target='_blank'>Check the raw data on Humdata Website</a></p> 
@@ -102,7 +102,7 @@
 <span style="background-color:yellow"><b>Different categorical measures played different roles in controlling Covid-19 Pandemic. Public health measure might can reduce death cases of Covid-19. Movement restriction and social distancing played important roles in controlling Covid-19 confirmed cases.</b></span>  
 
 
-<h3><b><i>3. Jobs are being lost worldwide at an unprecedented rate, and the economic impact of the COVID-19 Pandemic is not the same throughout each of these countries, what are the differences in these economic shocks? What responses have been and are being made to help mitigate this issue? Have they worked?</i></b></h3>
+<h3><b><i>The horrible monster COVID-19 does not only cause sickness and deaths. It harms people financially. To take the situation under control, governments try to keep people away from getting together, but at the same time, that means a lot of people cannot go to work anymore. As a result, GDP drops. Facing this situation, what are these 7 governments’ responses to it and how are they going to deal with this cold winter in the field of economy?</i></b></h3>
 
 
 (a).
@@ -208,7 +208,8 @@
 <span style="background-color:yellow"><b>Based on what workplace closing index and income support index indicated, it could be possible that the economy of India and Bangladesh was relived to the most extent after the economic measures was implemented, and then came Brazil, Indonesia and Pakistan. For Egypt, the economy might have not shown a relief yet. Last, it would be hard to say about Sri Lanka, even though it showed an obvious drop in scale of workplace closing, but without data from the other indicators, more data is needed to learn about its economy.</b></span>
 
 
-<h3><b><i>4. What cultural, socio-economic, and topographic characteristics could be playing a role in the COVID-19 pandemic? What role are they playing? How do you know?</i></b></h3>
+<h3><b><i>We are talking about seven countries which can be very different from each other. They have different religions, different cultures, as well as different average education levels. So how can these factors play a role in the consequence of COVID- 19 among the 7 countries, and do they really make  a difference here? With data representing the cultural, socio-economic, and topographic characteristics of seven countries, we are determined to find out the answer. 
+</i></b></h3>
 
 <p style = 'text-align: justify'>In order to analyze possible roles of socio-economic, topographical and cultural characteristics in the Covid-19 pandemic. Socio-economic status score is used to represent socio-economic characteristic. Population density is used to represent topographical characteristic. Country’s composition of religions is used to represent cultural characteristic.</p>
 <p style = 'text-align: justify'>Firstly, a bar chart for each country’s socio-economic status score is shown to explore the role of socio-economic characteristic in the Covid-19 pandemic.</p>
@@ -242,7 +243,8 @@
 <span style="background-color:yellow"><b>Summarily, socio-economic status might have a negative correlation with Covid-19 confirmed cases. Population density does not play an obvious role in the Covid-19 pandemic. The Religion’s proportion in country’s population might explain the violation of Brazil to follow the correlation between socio-economic status and Covid-19 confirmed cases. The reason is that Brazil has multiple main religions instead of one predominant religion for one country.</b></span>
 
 
-<h3><b><i>5. Has COVID-19 impacted different groups of people (women, impoverished, minorities, etc.) in different ways? What are the differences, and are they present within some countries or between countries? </i></b></h3>
+<h3><b><i>Situations within groups may vary. For instance, women and men, how people with different genders are influenced in their economic and COVID-19 situations? It seems that different genders have different death rates among these countries.
+</i></b></h3>
 
 (a).
 
